@@ -1,6 +1,8 @@
 console.log("hello branch1")
 
-const a=4;
-const b=6
-const sum=a+b
-console.log(`Total sum is:${sum}`)
+console.log("hello branch2")
+
+const x=4;
+const y=5;
+const sub=y-x;
+console.log(`Substration:${sub}`)
