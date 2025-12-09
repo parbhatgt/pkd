@@ -1,3 +1,6 @@
+console.log("hello branch1")
 
-console.log("hello branch2")
-
+const a=4;
+const b=6
+const sum=a+b
+console.log(`Total sum is:${sum}`)
