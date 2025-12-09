@@ -6,3 +6,8 @@ const x=4;
 const y=5;
 const sub=y-x;
 console.log(`Substration:${sub}`)
+
+
+
+
+console.log("object","::::::::::::::::::::::::::::::")
